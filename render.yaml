@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: student-feedback-ml
+    runtime: docker
+    rootDir: backend
+    healthCheckPath: /health
+    envVars:
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_PUBLISHABLE_KEY
+        sync: false
+      - key: FRONTEND_ORIGINS
+        value: https://frontend-ten-snowy-84.vercel.app
