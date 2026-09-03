@@ -72,6 +72,12 @@ Set `VITE_ML_API_URL=http://127.0.0.1:8000` for local development.
 
 The frontend is a Vite static deployment. The backend is a separate Vercel Python deployment using `backend/api/index.py` and `backend/vercel.json`.
 
+### Live deployments
+
+- Frontend: https://frontend-ten-snowy-84.vercel.app
+- ML API: https://backend-ten-kappa-87.vercel.app
+- ML API health check: https://backend-ten-kappa-87.vercel.app/health
+
 Required frontend environment variables:
 
 ```text
