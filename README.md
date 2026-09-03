@@ -21,7 +21,7 @@ The lightweight analyzer is intentional: the original Transformers/PyTorch model
 - Automatic sentiment: positive, neutral, or negative
 - Automatic topic detection: Teaching, Labs, Infrastructure, Canteen, Exams, Library, or General
 - Automatic priority: High, Medium, or Low
-- Protected HOD/Admin login
+- Protected HOD/Admin login (Password:Admin123)
 - Admin dashboard with search, filters, charts, topic trends, and action tracking
 - Student and admin password recovery through Supabase Auth email links
 - Light and dark themes
