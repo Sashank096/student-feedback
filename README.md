@@ -74,9 +74,9 @@ The frontend is a Vite static deployment. The backend is a separate Vercel Pytho
 
 ### Live deployments
 
-- Frontend: https://frontend-ten-snowy-84.vercel.app
-- ML API: https://backend-ten-kappa-87.vercel.app
-- ML API health check: https://backend-ten-kappa-87.vercel.app/health
+  https://student-feedback-app.vercel.app
+
+  Note everyone cannot login into admin dashboard (admin means hod /Password is Admin123 )
 
 Required frontend environment variables:
 
