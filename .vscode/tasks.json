@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Campus Feedback Backend",
+			"type": "shell",
+			"command": "C:\\Users\\sathi\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+			"args": [
+				"main.py"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
