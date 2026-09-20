@@ -2,6 +2,10 @@
 
 A premium, responsive, text-first student feedback platform with a real sentiment model and Supabase persistence.
 
+## Live demo
+
+[Open the deployed application](https://student-feedback-app-sable-two.vercel.app/)
+
 ## Product stack
 - Frontend: React 18 + Vite
 - UI/analytics: responsive CSS + Recharts
