@@ -426,7 +426,7 @@ Developed with passion by **Sashank Reddy**
 *Full-Stack Engineer & Machine Learning Specialist*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sashank096-181717?style=flat-square&logo=github)](https://github.com/Sashank096)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashank%20Reddy-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sashank-reddy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashank%20Reddy-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sashank096/)
 
 *Interested in enterprise institutional intelligence or conversational AI solutions? Feel free to connect or open an issue!*
 
